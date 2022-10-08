@@ -11,7 +11,7 @@ public class PriorityQueueTest {
 		
 		for (Integer o : pq)
 			System.out.println(o);
-		System.out.println("¿ø¼Ò »èÁ¦");
+		System.out.println("ì›ì†Œ ì‚­ì œ");
 		while (!pq.isEmpty())
 			System.out.println(pq.remove());
 		
