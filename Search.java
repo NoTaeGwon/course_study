@@ -9,7 +9,7 @@ public class Search {
 		for (int i = 0; i < 100; i++)
 			list.add(i);
 		int index = Collections.binarySearch(list, key);
-		System.out.println("Å½»öÀÇ ¹ÝÈ¯°ª = " + index);
+		System.out.println("íƒìƒ‰ì˜ ë°˜í™˜ê°’: " + index);
 
 	}
 
