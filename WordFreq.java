@@ -1,5 +1,5 @@
 import java.util.*;
-
+// 맵구조로 단어 찾기
 public class WordFreq {
 
 	public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class WordFreq {
 			m.put(a, (freq == null) ? 1 : freq + 1);
 		}
 
-		System.out.println(m.size() + " �ܾ �ֽ��ϴ�.");
+		System.out.println(m.size() + " 단어가 있습니다.");
 		System.out.println(m.containsKey("to"));
 		System.out.println(m.isEmpty());
 		System.out.println(m);
