@@ -18,10 +18,10 @@ public class ArrayListTest {
 			System.out.println(list.get(i));
 		
 		ArrayList<String> list1 = new ArrayList<String>();
-		list.add("ÇÏ³ª");
-		list.add("µÑ");
-		list.add("¼Â");
-		list.add("³Ý");
+		list.add("í•˜ë‚˜");
+		list.add("ë‘˜");
+		list.add("ì…‹");
+		list.add("ë„·");
 		
 		String s;
 		Iterator e = list.iterator();
