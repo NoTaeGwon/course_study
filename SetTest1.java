@@ -20,8 +20,8 @@ public class SetTest1 {
 		Set<String> intersection = new HashSet<String>(s1);
 		intersection.retainAll(s2);
 		
-		System.out.println("ÇÕÁıÇÕ" + union);
-		System.out.println("±³ÁıÇÕ" + intersection);
+		System.out.println("í•©ì§‘í•©: " + union);
+		System.out.println("êµì§‘í•©: " + intersection);
 
 	}
 
