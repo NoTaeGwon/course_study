@@ -24,9 +24,9 @@ public class SortTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Student array[] = {
-				new Student(2009001, "±èÃ¶¼ö"),
-				new Student(2009002, "ÀÌÃ¶¼ö"),
-				new Student(2009003, "¹ÚÃ¶¼ö"),
+				new Student(2009001, "ê¹€ì² ìˆ˜"),
+				new Student(2009002, "ì´ì² ìˆ˜"),
+				new Student(2009003, "ë°•ì² ìˆ˜"),
 		};
 		
 		List<Student> list = Arrays.asList(array);
